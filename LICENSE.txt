@@ -1,0 +1,14 @@
+
+AIEBS ABSURDLY RESTRICTIVE LICENSE FOR FREE AND OPEN SOURCE SOFTWARE (ARLFOSS)
+
+Version -1, 14 May 2023
+
+Copyright © 2007 AI Enterprise Blockchain Solutions
+
+Nobody is permitted to copy or distribute verbatim copies of this license document or change it.
+Permission is hereby restricted, may be free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal in the Software
+with restriction, including that it is only allowed to use the software "as is" and prohibited 
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to deny anyone to use or modify this license
+who is not AI Enterprise Blockchain Solutions.
